@@ -1,2 +1,2 @@
-# team-spirit
-Team Spirit
+team-spirit
+# Team Spirit
